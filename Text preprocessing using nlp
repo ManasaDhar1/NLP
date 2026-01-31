@@ -1,0 +1,35 @@
+Aim:
+
+To perform basic text preprocessing using case folding, stopword removal, lemmatization, and stemming in Python.
+
+Techniques Used:
+
+Case Folding – converts text to lowercase
+
+Stopword Removal – removes common words (is, a, the, etc.)
+
+Lemmatization – converts words to base form (pizzas → pizza)
+
+Stemming – reduces words to root form (jumping → jump)
+
+Spam Word Check – identifies spam words like win, prize, free, cash
+
+Tools:
+
+Python
+
+NLTK library
+
+Regular Expressions (re)
+
+ Output:
+
+The program displays:
+
+Lemmatized text
+
+Text after stopword removal
+
+Stemmed words
+
+Spam or not spam message
